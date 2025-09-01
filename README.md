@@ -80,7 +80,7 @@ jupyter notebook
 * Source curation followed Swiss-Prot **human** proteome and **vertebrate-host viral** proteins (see paper for details).
 * For large-scale re-derivations, see paper Methods; you will need UniProt/Swiss-Prot if you want the static/precomputed T5 embeddings and IEDB website for MHC-I immunogenicity.
 
-* Dataset of output predictions (`mistake_preds_4cv_650+len_lr_2024.csv.gz`) is in outputs and also in Huggingface Datasets (with data dictionary)
+* Dataset of output predictions (`mistake_preds_4cv_650+len_lr_2024.csv.gz`) is in outputs and also in Huggingface Datasets (with data dictionary): https://huggingface.co/datasets/GrimSqueaker/ProteinHumVir
 - 📂 Dataset: [Human–Virus Protein Mistake Predictions](https://huggingface.co/datasets/GrimSqueaker/ProteinHumVir), with 25,117 sequences and 20 descriptive features.
 
 ---
